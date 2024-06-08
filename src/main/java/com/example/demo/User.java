@@ -29,7 +29,7 @@ public class User {
 		this.name = name;
 	}
 	
-	public String getEmain() {
+	public String getEmail() {
 		return email;
 	}
 	
